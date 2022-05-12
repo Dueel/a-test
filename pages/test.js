@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my testing site!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Test has <code>worked</code>
         </p>
       </main>
 
