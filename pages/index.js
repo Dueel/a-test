@@ -12,7 +12,7 @@ export default function Home() {
       <main>
         <Header title="Hello! My name is Duel" />
         <p className="description">
-          I am a newbie just learning how to code
+          I am a newbie just learning how to code.
         </p>
       </main>
 
